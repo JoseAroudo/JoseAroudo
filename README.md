@@ -1,5 +1,5 @@
 # 💫 About Me:
-Systems Engineering student at the Technological University of Pereira, studying the eighth semester. Focused on BackEnd development and data engineering, with solid knowledge in structural, object-oriented programming and web development. Experience in databases, data manipulation (show, combine and exclude), I stand out for my leadership and teamwork skills, which allows me to collaborate effectively on multidisciplinary projects.
+Systems Engineering student at the Universidad Tecnologica De Pereira, studying the eighth semester. Focused on BackEnd development and data engineering, with solid knowledge in structural, object-oriented programming and web development. Experience in databases, data manipulation (show, combine and exclude), I stand out for my leadership and teamwork skills, which allows me to collaborate effectively on multidisciplinary projects.
 
 
 ## 🌐 Socials:
