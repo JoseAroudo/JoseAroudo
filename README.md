@@ -1,5 +1,5 @@
 # 💫 About Me:
-Systems Engineering student at the Universidad Tecnologica De Pereira, studying the eighth semester. Focused on BackEnd development and data engineering, with solid knowledge in structural, object-oriented programming and web development. Experience in databases, data manipulation (show, combine and exclude), I stand out for my leadership and teamwork skills, which allows me to collaborate effectively on multidisciplinary projects.
+Junior Data Engineer with a solid foundation in Python and a focus on constantly evolving towards specialization in this language. I am fluent in Portuguese and have an intermediate command of English, which allows me to communicate effectively in multicultural teams. In addition, my communication and leadership skills facilitate collaboration and team decision-making, driving projects towards success. I am committed to continuous learning and excellence in every aspect of my career.
 
 
 ## 🌐 Socials:
