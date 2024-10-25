@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Data Engineer with a solid foundation in Python and a focus on constantly evolving towards specialization in this language. I am fluent in Portuguese and have an intermediate command of English, which allows me to communicate effectively in multicultural teams. In addition, my communication and leadership skills facilitate collaboration and team decision-making, driving projects towards success. I am committed to continuous learning and excellence in every aspect of my career.
+Desarrollador de software con sólida formación en Python y experiencia en ingeniería de datos, especializado en el desarrollo de soluciones backend escalables y eficientes. Actualmente liderando el desarrollo de un sistema de gestión de datos para el programa de doctorado en la Universidad Tecnológica de Pereira, donde aplico tecnologías modernas como FastAPI y herramientas de procesamiento de datos como Pandas y NumPy.
 
 
 ## 🌐 Socials:
