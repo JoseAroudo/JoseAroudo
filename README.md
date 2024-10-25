@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador de software con sólida formación en Python y experiencia en ingeniería de datos, especializado en el desarrollo de soluciones backend escalables y eficientes. Actualmente liderando el desarrollo de un sistema de gestión de datos para el programa de doctorado en la Universidad Tecnológica de Pereira, donde aplico tecnologías modernas como FastAPI y herramientas de procesamiento de datos como Pandas y NumPy.
+Ingeniero de Datos Junior con una sólida base en Python y un enfoque en la evolución constante hacia la especialización en este lenguaje. Soy fluido en portugués y tengo un dominio intermedio del inglés, lo que me permite comunicarme eficazmente en equipos multiculturales. Además, mis habilidades en comunicación y liderazgo me facilitan la colaboración y la toma de decisiones en equipo, impulsando proyectos hacia el éxito. Estoy comprometido con el aprendizaje continuo y la excelencia en cada aspecto de mi carrera
 
 
 ## 🌐 Socials:
